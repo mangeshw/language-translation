@@ -1,3 +1,4 @@
 function encoding_layer
 	stacked lstm cell - check params
-	dynamic_rnn = int32
+
+	dynamic_rnn = int32  
